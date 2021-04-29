@@ -49,4 +49,4 @@ client.on('ready', async () => {
 
 
 
-client.on(process.env.token);
+client.login(process.env.token);
