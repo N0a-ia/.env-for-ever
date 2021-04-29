@@ -34,6 +34,7 @@ client.on('ready', async () => {
         { type: 'PLAYING' }
     ); 
 });
+///احذف ملف .replit
 ///////حط اكوادك تحت 
 /*تنبيه عشان تدخل ملف 
 .env
